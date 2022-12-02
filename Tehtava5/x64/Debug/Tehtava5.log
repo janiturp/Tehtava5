@@ -1,0 +1,11 @@
+﻿  Maastotyyppi.cpp
+  Main.cpp
+C:\Users\sissi\source\repos\Tehtava5\Tehtava5\MuuObjekti.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MuuObjekti.cpp
+C:\Users\sissi\source\repos\Tehtava5\Tehtava5\MuuObjekti.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Pelihahmo.cpp
+  Taisteluvaruste.cpp
+  Vihollinen.cpp
+  Vihollistyyppi.cpp
+  Generating Code...
+  Tehtava5.vcxproj -> C:\Users\sissi\source\repos\Tehtava5\x64\Debug\Tehtava5.exe
